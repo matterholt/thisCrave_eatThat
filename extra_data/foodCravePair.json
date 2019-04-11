@@ -1,0 +1,25 @@
+[{
+    "want": "Chocolate",
+    "lacking":"magnesium",
+    "eat_this": "Nuts,Seeds"  
+},
+{
+    "want": "Sugary Foods",
+    "lacking":"Chromium, Carbon, Phosphorus, Sulphur, Trytophan",
+    "eat_this": "Broccoli, cheese, Chicken"
+} ,
+{
+    "want":"Breads, Pasta, Carbs", 
+    "lacking":"Nitrogen",
+    "eat_this": "High Protein Meat"
+},
+{
+    "want": "Oily, Fatty Foods",
+    "lacking": "Calcium", 
+    "eat_this": "Cheese, Broccoli, Spinach"
+},
+{
+    "want": "Salty Foods",
+    "lacking":"Chloride, Silicon", 
+    "eat_this": "Fish, Nuts, Seeds"
+}]
